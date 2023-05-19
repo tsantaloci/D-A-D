@@ -1,0 +1,8 @@
+{
+    "SMILES": "CN1C(C)(C)CC(C)C2=C1C=CC(/C=C/C3=CC=C((%98))S3)=C2.C(%99)(C=C8)=CC=C8C9=C10C(N=S=N10)=C(C%11=CC=C((%98))C=C%11)S9.CN10C(C)(C)CC(C)C%11=C10C=CC((%99))=C%11",
+    "excitations": [],
+    "generalSMILES": "",
+    "localName": "9ed_31b_10ed",
+    "name": "9ed_31b_10ed",
+    "parts": "(E)-1,2,2,4-tetramethyl-6-(2-(thiophen-2-yl)vinyl)-1,2,3,4-tetrahydroquinoline::B-BTD-B::1,2,2,4-tetramethyl-1,2,3,4-tetrahydroquinoline"
+}
